@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.PcbDoc
 Date     : 8/15/2023
-Time     : 2:33:59 AM
+Time     : 3:39:57 PM
 
 Processing Rule : Clearance Constraint (Gap=70mil) (InNetClass('High_Voltage')),(InNetClass('Isolated'))
 Rule Violations :0
@@ -66,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
