@@ -1,0 +1,12 @@
+# Files to ignore
+
+*.zip
+*.ZIP
+*.LOG
+*/Logs/*
+Logs/*
+*/History/*
+
+AD22/*
+
+1-2301994-2*
