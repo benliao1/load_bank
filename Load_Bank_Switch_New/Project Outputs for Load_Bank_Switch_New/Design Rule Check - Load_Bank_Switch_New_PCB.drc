@@ -1,31 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.PcbDoc
-Date     : 8/16/2023
-Time     : 3:11:27 PM
+Date     : 8/18/2023
+Time     : 2:51:38 AM
 
 Processing Rule : Clearance Constraint (Gap=70mil) (InNetClass('High_Voltage')),(InNetClass('High_Voltage'))
-   Violation between Clearance Constraint: (32.325mil < 70mil) Between Pad C9-2(1975mil,1429mil) on Top Layer And Pad D3-2(1918mil,1332mil) on Top Layer 
-   Violation between Clearance Constraint: (50.067mil < 70mil) Between Pad D3-2(1918mil,1332mil) on Top Layer And Track (1975mil,1429mil)(1998.5mil,1430.022mil) on Top Layer 
-   Violation between Clearance Constraint: (66.075mil < 70mil) Between Pad D3-2(1918mil,1332mil) on Top Layer And Track (1998.5mil,1430.022mil)(2037.5mil,1430.022mil) on Top Layer 
-   Violation between Clearance Constraint: (37.5mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Pad MT2-1(1655mil,210mil) on Multi-Layer 
-   Violation between Clearance Constraint: (44.33mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Pad Q2-4(1717mil,620mil) on Multi-Layer 
-   Violation between Clearance Constraint: (41.273mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Polygon Region (0 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (49.55mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Track (1839.963mil,511.55mil)(1905.608mil,511.55mil) on Top Layer 
-   Violation between Clearance Constraint: (6.37mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Track (1905.608mil,511.55mil)(2012.158mil,405mil) on Top Layer 
-   Violation between Clearance Constraint: (58.658mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Track (2012.158mil,405mil)(2106mil,405mil) on Top Layer 
-   Violation between Clearance Constraint: (63.444mil < 70mil) Between Pad D4-1(1918mil,405mil) on Top Layer And Via (1835mil,500mil) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (37.5mil < 70mil) Between Pad D4-2(2106mil,405mil) on Top Layer And Pad R9-2(2090mil,296mil) on Top Layer 
-   Violation between Clearance Constraint: (48mil < 70mil) Between Pad D4-2(2106mil,405mil) on Top Layer And Track (1977mil,300mil)(2086mil,300mil) on Top Layer 
-   Violation between Clearance Constraint: (48mil < 70mil) Between Pad D4-2(2106mil,405mil) on Top Layer And Track (2086mil,300mil)(2090mil,296mil) on Top Layer 
-   Violation between Clearance Constraint: (53mil < 70mil) Between Pad MT2-1(1655mil,210mil) on Multi-Layer And Track (1918mil,405mil)(1933.5mil,389.5mil) on Top Layer 
-   Violation between Clearance Constraint: (68.5mil < 70mil) Between Pad MT2-1(1655mil,210mil) on Multi-Layer And Track (1933.5mil,343.5mil)(1933.5mil,389.5mil) on Top Layer 
-   Violation between Clearance Constraint: (68.5mil < 70mil) Between Pad MT2-1(1655mil,210mil) on Multi-Layer And Track (1933.5mil,343.5mil)(1949.5mil,327.5mil) on Top Layer 
-   Violation between Clearance Constraint: (56.925mil < 70mil) Between Polygon Region (0 hole(s)) Top Layer And Track (1918mil,405mil)(1933.5mil,389.5mil) on Top Layer 
-   Violation between Clearance Constraint: (46.58mil < 70mil) Between Track (1905.608mil,511.55mil)(2012.158mil,405mil) on Top Layer And Track (1918mil,405mil)(1933.5mil,389.5mil) on Top Layer 
-   Violation between Clearance Constraint: (46.58mil < 70mil) Between Track (1905.608mil,511.55mil)(2012.158mil,405mil) on Top Layer And Track (1933.5mil,343.5mil)(1933.5mil,389.5mil) on Top Layer 
-   Violation between Clearance Constraint: (60.17mil < 70mil) Between Track (1918mil,405mil)(1933.5mil,389.5mil) on Top Layer And Track (2012.158mil,405mil)(2106mil,405mil) on Top Layer 
-   Violation between Clearance Constraint: (60.17mil < 70mil) Between Track (1933.5mil,343.5mil)(1933.5mil,389.5mil) on Top Layer And Track (2012.158mil,405mil)(2106mil,405mil) on Top Layer 
-Rule Violations :21
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0mil) (OnLayer('Keep-Out Layer')),(All)
 Rule Violations :0
@@ -61,7 +40,9 @@ Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
-Rule Violations :0
+   Violation between Hole Size Constraint: (275mil > 248.031mil) Pad MT1-1(358mil,1492mil) on Multi-Layer Actual Hole Size = 275mil
+   Violation between Hole Size Constraint: (275mil > 248.031mil) Pad MT2-1(1948mil,1492mil) on Multi-Layer Actual Hole Size = 275mil
+Rule Violations :2
 
 Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
 Rule Violations :0
@@ -69,10 +50,10 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=7.874mil) (Disabled)(All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
@@ -85,6 +66,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 21
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:01
