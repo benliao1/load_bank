@@ -99,6 +99,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Design Rule Check - Load_Bank_Switch_New_PCB.html
 DItemRevisionGUID=
@@ -112,86 +146,50 @@ DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.E
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GM
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Load_Bank_Switch_New\Load_Bank_Switch_New_PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
