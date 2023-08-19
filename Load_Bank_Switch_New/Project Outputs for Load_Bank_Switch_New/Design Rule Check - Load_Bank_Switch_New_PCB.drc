@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.PcbDoc
-Date     : 8/18/2023
-Time     : 8:34:55 PM
+Date     : 8/19/2023
+Time     : 3:17:53 PM
 
 Processing Rule : Clearance Constraint (Gap=70mil) (InNetClass('High_Voltage')),(InNetClass('High_Voltage'))
 Rule Violations :0
@@ -40,8 +40,8 @@ Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
-   Violation between Hole Size Constraint: (275mil > 248.031mil) Pad MT1-1(358mil,1492mil) on Multi-Layer Actual Hole Size = 275mil
-   Violation between Hole Size Constraint: (275mil > 248.031mil) Pad MT2-1(1948mil,1492mil) on Multi-Layer Actual Hole Size = 275mil
+   Violation between Hole Size Constraint: (275mil > 248.031mil) Pad MT1-1(358mil,1652mil) on Multi-Layer Actual Hole Size = 275mil
+   Violation between Hole Size Constraint: (275mil > 248.031mil) Pad MT2-1(1948mil,1652mil) on Multi-Layer Actual Hole Size = 275mil
 Rule Violations :2
 
 Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
