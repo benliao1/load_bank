@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DPGSGUFB
 
 [Document5]
-DocumentPath=NC_Drill_Cam.Cam
+DocumentPath=..\..\..\..\benli\Documents\Pilawa Research\load-bank-master\Load_Bank\Gerber_Cam.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=Gerber_Cam.Cam
+DocumentPath=NC_Drill_Cam.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Load_Bank_Switch_New_PCB.PcbDoc   8/24/2023  1:40:00 AM
+NCDrill File Report For: Load_Bank_Switch_New_PCB.PcbDoc   8/24/2023  3:00:52 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,8 +7,8 @@ ASCII RoundHoles File : Load_Bank_Switch_New_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             4         PTH        0.66inch (16.76mm)
-T2      13mil (0.33mm)                                            Round             176       PTH        15.57inch (395.40mm)
+T1      12mil (0.3mm)                                             Round             6         PTH        1.26inch (32.08mm)
+T2      13mil (0.33mm)                                            Round             177       PTH        15.38inch (390.71mm)
 T3      35mil (0.889mm)                                           Round             12        PTH        1.39inch (35.21mm)
 T4      39mil (0.991mm)                                           Round             4         PTH        0.30inch (7.62mm)
 T5      50mil (1.27mm)                                            Round             6         PTH        1.15inch (29.19mm)
@@ -17,6 +17,6 @@ T7      138mil (3.505mm)                                          Round         
 T8      275mil (6.985mm)                                          Round             2         PTH        1.59inch (40.39mm)
 T9      126mil (3.2mm)                                            Round             2         NPTH       0.50inch (12.70mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              210
+Totals                                                                              213
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

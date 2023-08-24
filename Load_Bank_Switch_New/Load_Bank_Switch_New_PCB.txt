@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Load_Bank_Switch_New\Load_Bank_Switch_New_PCB.PcbDoc
+Date         : 8/24/2023
+Time         : 2:22:53 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2305milsx2010mils
+    Components on board, 48
+count : 2
