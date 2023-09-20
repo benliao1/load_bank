@@ -133,6 +133,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTKTSPUN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Load_Bank_Master\Design Rule Check - Load_Bank_Master.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
