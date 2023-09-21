@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Master\Load_Bank_Master.PcbDoc
 Date     : 9/20/2023
-Time     : 3:52:01 AM
+Time     : 6:11:39 PM
 
 Processing Rule : Clearance Constraint (Gap=15.748mil) (InNet('SW')),(All)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
