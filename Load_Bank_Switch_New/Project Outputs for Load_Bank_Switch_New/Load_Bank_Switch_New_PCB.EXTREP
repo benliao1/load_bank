@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Load_Bank_Switch_New_PCB.GBR   9/12/2023  11:39:14 AM
+Gerber File Extension Report For: Load_Bank_Switch_New_PCB.GBR   9/29/2023  2:36:15 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -12,7 +12,11 @@ Layer Extension     Layer Description
 .gbr                Top Layer                               
 .gbr                Bottom Layer                            
 .gbr                Bottom Solder                           
-.gbr                Bottom Paste                            
 .gbr                Bottom Overlay                          
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
 .gbr                Profile                                 
 ------------------------------------------------------------------------------------------
