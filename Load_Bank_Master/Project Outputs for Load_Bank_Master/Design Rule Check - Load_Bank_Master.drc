@@ -1,12 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Master\Load_Bank_Master.PcbDoc
-Date     : 9/20/2023
-Time     : 6:11:39 PM
-
-Processing Rule : Clearance Constraint (Gap=15.748mil) (InNet('SW')),(All)
-Rule Violations :0
+Date     : 10/2/2023
+Time     : 4:23:58 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15.748mil) (InNet('SW')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0mil) (OnLayer('Keep-Out Layer')),(All)
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=393.701mil) (Preferred=6mil) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=393.701mil) (Preferred=5.906mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -51,7 +51,106 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Room MUX12 (Bounding Region = (6837mil, 4800mil, 7664mil, 5335mil) (InComponentClass('MUX12'))
+Rule Violations :0
+
+Processing Rule : Room MUX15 (Bounding Region = (6009mil, 3730mil, 6836mil, 4265mil) (InComponentClass('MUX15'))
+Rule Violations :0
+
+Processing Rule : Room MUX13 (Bounding Region = (6009mil, 4265mil, 6836mil, 4800mil) (InComponentClass('MUX13'))
+Rule Violations :0
+
+Processing Rule : Room MUX11 (Bounding Region = (6009mil, 4800mil, 6836mil, 5335mil) (InComponentClass('MUX11'))
+Rule Violations :0
+
+Processing Rule : Room MUX9 (Bounding Region = (6009mil, 5335mil, 6836mil, 5870mil) (InComponentClass('MUX9'))
+Rule Violations :0
+
+Processing Rule : Room MUX5 (Bounding Region = (6009mil, 6405mil, 6836mil, 6940mil) (InComponentClass('MUX5'))
+Rule Violations :0
+
+Processing Rule : Room JACK3 (Bounding Region = (8809mil, 7158mil, 10521mil, 8172mil) (InComponentClass('JACK3'))
+Rule Violations :0
+
+Processing Rule : Room MUX7 (Bounding Region = (6009mil, 5870mil, 6836mil, 6405mil) (InComponentClass('MUX7'))
+Rule Violations :0
+
+Processing Rule : Room TX_GROUP1 (Bounding Region = (7662mil, 6718mil, 8459mil, 7645mil) (InComponentClass('TX_GROUP1'))
+Rule Violations :0
+
+Processing Rule : Room MUX2 (Bounding Region = (6837mil, 7475mil, 7664mil, 8010mil) (InComponentClass('MUX2'))
+Rule Violations :0
+
+Processing Rule : Room MUX1 (Bounding Region = (6009mil, 7475mil, 6836mil, 8010mil) (InComponentClass('MUX1'))
+Rule Violations :0
+
+Processing Rule : Room MUX8 (Bounding Region = (6837mil, 5870mil, 7664mil, 6405mil) (InComponentClass('MUX8'))
+Rule Violations :0
+
+Processing Rule : Room MUX6 (Bounding Region = (6837mil, 6405mil, 7664mil, 6940mil) (InComponentClass('MUX6'))
+Rule Violations :0
+
+Processing Rule : Room TX_GROUP2 (Bounding Region = (7670mil, 5169mil, 8467mil, 6096mil) (InComponentClass('TX_GROUP2'))
+Rule Violations :0
+
+Processing Rule : Room MUX17 (Bounding Region = (6009mil, 3195mil, 6836mil, 3730mil) (InComponentClass('MUX17'))
+Rule Violations :0
+
+Processing Rule : Room MUX3 (Bounding Region = (6009mil, 6940mil, 6836mil, 7475mil) (InComponentClass('MUX3'))
+Rule Violations :0
+
+Processing Rule : Room MUX4 (Bounding Region = (6837mil, 6940mil, 7664mil, 7475mil) (InComponentClass('MUX4'))
+Rule Violations :0
+
+Processing Rule : Room JACK6 (Bounding Region = (8809mil, 4116mil, 10521mil, 5130mil) (InComponentClass('JACK6'))
+Rule Violations :0
+
+Processing Rule : Room JACK5 (Bounding Region = (8809mil, 5130mil, 10521mil, 6144mil) (InComponentClass('JACK5'))
+Rule Violations :0
+
+Processing Rule : Room JACK8 (Bounding Region = (8809mil, 2088mil, 10521mil, 3102mil) (InComponentClass('JACK8'))
+Rule Violations :0
+
+Processing Rule : Room JACK7 (Bounding Region = (8809mil, 3102mil, 10521mil, 4116mil) (InComponentClass('JACK7'))
+Rule Violations :0
+
+Processing Rule : Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) (InComponentClass('SENSE2'))
+Rule Violations :0
+
+Processing Rule : Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponentClass('SENSE3'))
+Rule Violations :0
+
+Processing Rule : Room JACK4 (Bounding Region = (8809mil, 6144mil, 10521mil, 7158mil) (InComponentClass('JACK4'))
+Rule Violations :0
+
+Processing Rule : Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1'))
+Rule Violations :0
+
+Processing Rule : Room JACK9 (Bounding Region = (8809mil, 1074mil, 10521mil, 2088mil) (InComponentClass('JACK9'))
+Rule Violations :0
+
+Processing Rule : Room MUX16 (Bounding Region = (6837mil, 3730mil, 7664mil, 4265mil) (InComponentClass('MUX16'))
+Rule Violations :0
+
+Processing Rule : Room JACK1 (Bounding Region = (8809mil, 9186mil, 10521mil, 10200mil) (InComponentClass('JACK1'))
+Rule Violations :0
+
+Processing Rule : Room JACK2 (Bounding Region = (8809mil, 8172mil, 10521mil, 9186mil) (InComponentClass('JACK2'))
+Rule Violations :0
+
+Processing Rule : Room MUX14 (Bounding Region = (6837mil, 4265mil, 7664mil, 4800mil) (InComponentClass('MUX14'))
+Rule Violations :0
+
+Processing Rule : Room TX_GROUP3 (Bounding Region = (7667mil, 3523mil, 8464mil, 4450mil) (InComponentClass('TX_GROUP3'))
+Rule Violations :0
+
+Processing Rule : Room MUX18 (Bounding Region = (6837mil, 3195mil, 7664mil, 3730mil) (InComponentClass('MUX18'))
+Rule Violations :0
+
+Processing Rule : Room MUX10 (Bounding Region = (6837mil, 5335mil, 7664mil, 5870mil) (InComponentClass('MUX10'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
