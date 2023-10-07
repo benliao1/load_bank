@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Master\Load_Bank_Master.PcbDoc
-Date     : 10/4/2023
-Time     : 2:06:18 AM
+Date     : 10/7/2023
+Time     : 12:55:25 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -114,16 +114,16 @@ Rule Violations :0
 Processing Rule : Room JACK7 (Bounding Region = (8809mil, 3102mil, 10521mil, 4116mil) (InComponentClass('JACK7'))
 Rule Violations :0
 
-Processing Rule : Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) ((InComponentClass('SENSE2') AND Not InComponent('C23_SENSE2')))
+Processing Rule : Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) ((InComponentClass('SENSE2') AND Not InComponent('C18_SENSE2')))
 Rule Violations :0
 
-Processing Rule : Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponent('J2_SENSE3') AND NOT InComponent('C23_SENSE3'))
+Processing Rule : Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponent('J2_SENSE3') AND NOT InComponent('C18_SENSE3'))
 Rule Violations :0
 
 Processing Rule : Room JACK4 (Bounding Region = (8809mil, 6144mil, 10521mil, 7158mil) (InComponentClass('JACK4'))
 Rule Violations :0
 
-Processing Rule : Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1') AND NOT InComponent('C23_SENSE1'))
+Processing Rule : Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1') AND NOT InComponent('C18_SENSE1'))
 Rule Violations :0
 
 Processing Rule : Room JACK9 (Bounding Region = (8809mil, 1074mil, 10521mil, 2088mil) (InComponentClass('JACK9'))
