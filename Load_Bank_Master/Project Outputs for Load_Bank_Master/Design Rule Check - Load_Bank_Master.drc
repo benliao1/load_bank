@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\AD23\load_bank\Load_Bank_Master\Load_Bank_Master.PcbDoc
-Date     : 11/13/2023
-Time     : 11:15:11 PM
+Date     : 11/14/2023
+Time     : 12:11:36 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -115,16 +115,19 @@ Processing Rule : Room JACK7 (Bounding Region = (8809mil, 3102mil, 10521mil, 411
 Rule Violations :0
 
 Processing Rule : Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) (InComponentClass('SENSE2') And Not InComponent('C22_SENSE2'))
-Rule Violations :0
+   Violation between Room Definition: Between Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) (InComponentClass('SENSE2') And Not InComponent('C22_SENSE2')) And SMT Small Component C23_SENSE2-1nF (1019mil,4285mil) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponentClass('SENSE3') And Not InComponent('C22_SENSE3'))
-Rule Violations :0
+   Violation between Room Definition: Between Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponentClass('SENSE3') And Not InComponent('C22_SENSE3')) And SMT Small Component C23_SENSE3-1nF (1163mil,4285mil) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Room JACK4 (Bounding Region = (8809mil, 6144mil, 10521mil, 7158mil) (InComponentClass('JACK4'))
 Rule Violations :0
 
 Processing Rule : Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1') And Not InComponent('C22_SENSE1'))
-Rule Violations :0
+   Violation between Room Definition: Between Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1') And Not InComponent('C22_SENSE1')) And SMT Small Component C23_SENSE1-1nF (909mil,4285mil) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Room JACK9 (Bounding Region = (8809mil, 1074mil, 10521mil, 2088mil) (InComponentClass('JACK9'))
 Rule Violations :0
@@ -154,6 +157,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=3000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 3
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
