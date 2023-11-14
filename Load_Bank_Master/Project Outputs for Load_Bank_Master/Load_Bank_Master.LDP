@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\AD23\load_bank\Load_Bank_Master\Load_Bank_Master.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=load_bank_master.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=load_bank_master-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

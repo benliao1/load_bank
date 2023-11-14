@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Load_Bank_Master.PrjPcb]
+   Generated File[Load_Bank_Master.TXT]
+   Generated File[Load_Bank_Master-RectHoles.TXT]
+   Generated File[Load_Bank_Master.LDP]
+   Generated File[Load_Bank_Master.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:25:10 PM On 11/13/2023
