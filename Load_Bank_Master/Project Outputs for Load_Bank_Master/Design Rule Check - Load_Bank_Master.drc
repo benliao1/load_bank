@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Load_Bank_Master\Load_Bank_Master.PcbDoc
-Date     : 10/10/2023
-Time     : 6:09:28 PM
+PCB File : C:\Users\Public\Documents\Altium\AD23\load_bank\Load_Bank_Master\Load_Bank_Master.PcbDoc
+Date     : 11/13/2023
+Time     : 9:10:55 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -16,7 +16,8 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net USB_VCCIO Between Pad RX-2(820mil,6061mil) on Top Layer And Track (913.5mil,6062.5mil)(914mil,6062mil) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -114,16 +115,16 @@ Rule Violations :0
 Processing Rule : Room JACK7 (Bounding Region = (8809mil, 3102mil, 10521mil, 4116mil) (InComponentClass('JACK7'))
 Rule Violations :0
 
-Processing Rule : Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) (InComponentClass('SENSE2') And Not InComponent('C18_SENSE2'))
+Processing Rule : Room SENSE2 (Bounding Region = (6077mil, 752mil, 7095mil, 1719mil) (InComponentClass('SENSE2') And Not InComponent('C21_SENSE2'))
 Rule Violations :0
 
-Processing Rule : Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponentClass('SENSE3') And Not InComponent('C18_SENSE3'))
+Processing Rule : Room SENSE3 (Bounding Region = (7095mil, 752mil, 8113mil, 1719mil) (InComponentClass('SENSE3') And Not InComponent('C21_SENSE3'))
 Rule Violations :0
 
 Processing Rule : Room JACK4 (Bounding Region = (8809mil, 6144mil, 10521mil, 7158mil) (InComponentClass('JACK4'))
 Rule Violations :0
 
-Processing Rule : Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1') And Not InComponent('C18_SENSE1'))
+Processing Rule : Room SENSE1 (Bounding Region = (5059mil, 752mil, 6077mil, 1719mil) (InComponentClass('SENSE1') And Not InComponent('C21_SENSE1'))
 Rule Violations :0
 
 Processing Rule : Room JACK9 (Bounding Region = (8809mil, 1074mil, 10521mil, 2088mil) (InComponentClass('JACK9'))
@@ -154,6 +155,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=3000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 1
 Waived Violations : 0
 Time Elapsed        : 00:00:02
